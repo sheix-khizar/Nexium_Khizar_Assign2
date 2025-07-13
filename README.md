@@ -51,7 +51,7 @@ blog-summarizer/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/blog-summarizer.git
+git clone https://github.com/sheix-khizar/Nexium_Khizar_Assign2.git
 cd blog-summarizer
 ```
 
@@ -82,23 +82,6 @@ Go to `http://localhost:3000` in your browser.
 
 ---
 
-## ✅ Deployment (Optional)
-
-You can deploy this project for free using [Vercel](https://vercel.com/):
-
-1. Push your code to GitHub
-2. Import it to Vercel
-3. In Vercel dashboard, go to Project Settings → Environment Variables  
-   Add:
-
-```
-Key: GEMINI_API_KEY
-Value: your_gemini_api_key
-```
-
-4. Click **Deploy**
-
----
 
 ## 📌 Notes
 
@@ -110,6 +93,6 @@ Value: your_gemini_api_key
 
 ## 🙌 Made By
 
-**Sheix Muhammad Khizar**  
-BS Software Engineering Student  
-Built this to learn AI + Next.js integration 💻🤖
+**Sheikh Muhammad Khizar**  
+Software Engineer  
+Built this to learn AI + Next.js integration 💻🤖 using TypeScript...
